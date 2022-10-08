@@ -36,7 +36,120 @@ function App() {
       char:"Celebratede",
       role:"antonyms",
       abilities:"Unknown, Inglorious"
-     },
+     }, {
+      
+      char: "Jett",
+      role: "Duelist",
+      abilities: ["TailWind", "Cloud Burst", "UpDraft", "Blade Storm"],
+    },
+    {
+     
+      char: "Phoenix",
+      role: "Duelist",
+      abilities: ["HotHands", "Blaze", "Curve Ball", "Run It Back"],
+    },
+    {
+     
+      char: "Yoru",
+      role: "Duelist",
+      abilities: ["GateCrash", "Fakeout", "Blind Side", "Dimensional Drift"],
+    },
+    {
+      
+      char: "Reyna",
+      role: "Duelist",
+      abilities: ["Dismiss", "Leer", "Devour", "Empress"],
+    },
+    {
+     
+      char: "Raze",
+      role: "Duelist",
+      abilities: ["Paint Shells", "Boom Bot", "BlastPack", "ShowStopper"],
+    },
+    {
+      
+      char: "Neon",
+      role: "Duelist",
+      abilities: ["High Gear", "Fast Lane", "Relay Bolt", "Over Drive"],
+    },
+    {
+      
+      char: "Sova",
+      role: "Initiator",
+      abilities: ["Recon Bolt", "Owl Drone", "Shock Bolt", "Hunter's Fury"],
+    },
+    {
+     
+      char: "Fade",
+      role: "Initiator",
+      abilities: ["Haunt", "Prowler", "Seize", "NightFall"],
+    },
+    {
+     
+      char: "Skye",
+      role: "Initiator",
+      abilities: ["Guiding Light", "Regrowth", "Trail Blazer", "Seekers"],
+    },
+    {
+     
+      char: "KAY/O",
+      role: "Initiator",
+      abilities: ["Zero/Point", "Frag/Ment", "Flash/Drive", "NULL/CMD"],
+    },
+    {
+      
+      char: "Breach",
+      role: "Initiator",
+      abilities: ["Fault Line", "AfterShock", "FlashPoint", "Rolling Thunder"],
+    },
+    {
+ 
+      char: "Omen",
+      role: "Controller",
+      abilities: ["Dark Cover", "Shrouded Step", "Paranoia", "From the Shadows"],
+    },
+    {
+     
+      char: "Astra",
+      role: "Controller",
+      abilities: ["Nebula", "Gravity Well", "Nova Pulse", "Cosmic Divide"],
+    },
+    {
+      
+      char: "Viper",
+      role: "Controller",
+      abilities: ["Toxic Screen", "Snake Bite", "Poison Cloud", "Viper's PIT"],
+    },
+    {
+     
+      char: "Brimstone",
+      role: "Controller",
+      abilities: ["SkySmoke", "Stim Beacon", "Icendiary", "Orbital Strike"],
+    },
+    {
+      
+      char: "Chamber",
+      role: "Sentinel",
+      abilities: ["Rendezvous", "Trademark", "Head Hunter", "Tour De Force"],
+    },
+    {
+      
+      char: "Sage",
+      role: "Sentinel",
+      abilities: ["Healing Orb", "Barrier Orb", "Slow Orb", "Resurrection"],
+    },
+    {
+      
+      char: "Killjoy",
+      role: "Sentinel",
+      abilities: ["Turret", "Nano Swarm", "AlarmBot", "Blade Storm"],
+    },
+    {
+     
+      char: "Cypher",
+      role: "Sentinel",
+      abilities: ["Spycam", "Trapwire", "Cyber Cage", "Nueral Theft"],
+    },
     
   ];
 
