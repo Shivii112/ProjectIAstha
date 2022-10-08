@@ -1,0 +1,57 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    
+}
+.main{
+    width: 500px;
+    height: 35vh;
+    background-color: white;
+   margin-top: 40%;
+   border-radius: 2%;
+
+   
+}
+.main .up{
+    height: 8vh;
+    background-color: tomato;
+    border-radius: 5px;   
+    text-align: center;
+    font-size: 35px;
+    
+}
+.ablities{
+    float: left;
+}
+ p{
+ font-weight: bolder;
+ margin: 10px 0px 0px 15px;
+ }
+.ability{
+    font-weight:300; 
+}
+.score{
+        float: left;
+        width: 50px;
+         margin-left: 15%;  
+}
+.cr_score{
+padding-top: 10px;
+width: 15px;
+margin-left:92% ;
+}
+
+.option{
+     display: flex;
+    flex-direction: row;
+}
+.op{
+    background-color: green;
+    margin-left: 12px;
+    margin-top: 30px;
+    width: 110px;
+    height: 5vh;
+    border-radius: 5px;
+    text-align: center;
+}
